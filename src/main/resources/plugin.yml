@@ -1,0 +1,15 @@
+name: StrongZombie
+main: com.robolawrence.bukkit.StrongZombiePlugin
+version: 0.1
+commands:
+   zspeed:
+      description: Change the speed of any new zombies
+      usage: /zspeed <number>
+      permission: robolawrence.strongzombie.zspeed
+      permission-message: you don't have permission
+   zhearts:
+      description: Change the number of hearts of any new zombies
+      usage: /zhearts <number>
+      permission: robolawrence.strongzombie.zhearts
+      permission-message: you don't have permission
+   
