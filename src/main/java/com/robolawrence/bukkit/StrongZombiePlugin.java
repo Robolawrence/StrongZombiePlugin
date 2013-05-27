@@ -16,7 +16,6 @@ public class StrongZombiePlugin extends JavaPlugin {
 	@Override
 	public void onEnable() {
 		getLogger().info("onEnable has been invoked!");
-		Entity
 	}
 	
 	@Override
